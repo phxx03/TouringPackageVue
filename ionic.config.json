@@ -1,0 +1,7 @@
+{
+  "name": "TourPackageVue",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue"
+}
